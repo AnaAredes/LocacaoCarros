@@ -4,6 +4,7 @@ O objetivo deste projeto é desenvolver uma plataforma web para aluguer de carro
 
 📌 Contexto do Projeto
 Este repositório faz parte de uma iniciativa de demonstração e apoio pedagógico no âmbito da UFCD de Integração, tendo como destinatários os alunos do curso. A proposta base consiste no desenvolvimento de uma aplicação integrada, explorando conceitos de autenticação, persistência de dados, comunicação com APIs externas e gestão de reservas.
+Na apresentação Temas.ppt presente neste repositório, há os detalhes da proposta.
 
 🎯 Proposta: Plataforma para Locação de Viaturas
 Desenvolvimento de uma plataforma para reservas de carros, incluindo:
