@@ -1,7 +1,17 @@
-# 💬 Locação de Carros - Laravel 12
+# 💬 Locação de Casas de Férias - Laravel 12
 Este projeto foi desenvolvido utilizando **Laravel 12**, com **MySQL (MariaDB)** como banco de dados, **Breeze** para autenticação e **Blade** para renderização de interfaces. 
+O objetivo deste projeto é desenvolver uma plataforma web para aluguer de carros, permitindo que clientes se registem e autentiquem com segurança, acedam ao seu histórico de reservas e realizem novas reservas de forma intuitiva. 
 
-O objetivo deste projeto é desenvolver uma plataforma web para reservas de bens locáveis, permitindo que clientes se registem e autentiquem com segurança, acedam ao seu histórico de reservas e realizem novas reservas de forma intuitiva. 
+📌 Contexto do Projeto
+Este repositório faz parte de uma iniciativa de demonstração e apoio pedagógico no âmbito da UFCD de Integração, tendo como destinatários os alunos do curso. A proposta base consiste no desenvolvimento de uma aplicação integrada, explorando conceitos de autenticação, persistência de dados, comunicação com APIs externas e gestão de reservas.
+
+🎯 Proposta: Plataforma para Locação de Viaturas
+Desenvolvimento de uma plataforma para reservas de carros, incluindo:
+- Registo e autenticação de utilizadores
+- Catálogo pesquisável com filtros
+- Gestão de reservas com verificação de disponibilidade
+- Integração de métodos de pagamento (reais e simulados)
+- Envio de notificações por e-mail
 
 ## 🚀 Tecnologias Utilizadas
 - **Laravel 12** - Framework PHP moderno e robusto
