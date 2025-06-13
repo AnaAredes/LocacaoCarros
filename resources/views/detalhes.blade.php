@@ -37,7 +37,7 @@
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 bg-white rounded-xl shadow-xl p-6 md:p-8">
 
                 <div>
-                    <x-carrossel-imagens :imageUrl="$bem->imageUrl" :modelo="$bem->modelo" :altura_miniaturas="h-24"/>                
+                    <x-carrossel-imagens :imageUrl="$bem->imageUrl" :modelo="$bem->modelo" altura_miniaturas="h-24"/>                
                 </div>
 
                 <div class="space-y-6">
